@@ -12,3 +12,7 @@ python train.py /workspace/cd0673//43ef1733-cf74-40a9-8c22-b6e440128200/image-cl
 
 
 python predict.py flowers/test/1/image_06743.jpg checkpoint.pth --top_k 5 --category_names cat_to_name.json --gpu
+
+Part2:
+
+cd cd0673/43ef1733-cf74-40a9-8c22-b6e440128200/image-classifier-part-2-workspace 
